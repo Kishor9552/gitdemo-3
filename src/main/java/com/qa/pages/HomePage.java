@@ -6,4 +6,5 @@ public void homePage() {
 }
 	public void homePage2() {
 	System.out.println("home page2");
+		System.out.println("home page3");
 }
